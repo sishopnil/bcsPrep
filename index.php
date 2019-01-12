@@ -2,7 +2,7 @@
 <?php include "includes/navigation.php"; ?>
 <div class="container-fluid text-center">
     <h1>
-        Bcs prep
+        Bcs preparation
     </h1>
 </div>
 
